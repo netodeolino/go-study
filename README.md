@@ -1,8 +1,8 @@
 # go-study
 
-## Let's go fun
+<img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" />
 
-https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white
+## Let's go fun
 
 Useful commands:
 - go mod init project_name
